@@ -30,11 +30,12 @@ Calculated key metrics such as total sales, profit margins, and discount impacts
 - Segment Analysis: Determined which customer segments and product categories contribute most to overall sales and profit.
 - Customer Insights: Highlighted key customers driving sales and areas for targeted marketing.
 - Product Trends: Analyzed product performance to optimize inventory and marketing strategies.
-- Sales Trends: Observed seasonal trends and sales fluctuations throughout the year.
+- Sales Trends: Observed seasonal trends and sales fluctuations throughout the month and year.
 
 ## Tools & Technologies
 - Python: Data cleaning, preprocessing, and analysis (Pandas, NumPy).
 - Tableau: Data visualization and interactive dashboards.
+  - [Sales_Analysis_Dashboards](https://public.tableau.com/views/SalesAnalysis_17245917752700/SALESDASHBOARD2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Files in this Repository
 - Sales_Insights_Analysis.ipynb: Jupyter notebook with Python code for data analysis and preprocessing.
