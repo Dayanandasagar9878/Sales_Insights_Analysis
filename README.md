@@ -38,6 +38,7 @@ Calculated key metrics such as total sales, profit margins, and discount impacts
   - [Sales_Analysis_Dashboards](https://public.tableau.com/views/SalesAnalysis_17245917752700/SALESDASHBOARD2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Files in this Repository
-- Sales_Insights_Analysis.ipynb: Jupyter notebook with Python code for data analysis and preprocessing.
-- Superstore_Dataset.csv: The dataset used for analysis.
-- Sales_Insights_Dashboard.twbx: Tableau workbook file containing the dashboards and visualizations.
+- Sales_Analysis.ipynb: Jupyter notebook with Python code for data analysis and preprocessing.
+- Superstore.csv: The dataset used for analysis.
+- Sales_Dashboard_1.png: Screenshot of the first Tableau dashboard with visualizations.
+- Sales_Dashboard_2.png: Screenshot of the second Tableau dashboard with visualizations.
